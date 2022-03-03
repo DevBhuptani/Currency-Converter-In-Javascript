@@ -2,5 +2,5 @@
 
 # Screen Shots
 
-<img src=/Screenshots/Screenshot1.jpeg">
-<img src=/Screenshots/Screenshot2.jpeg">
+<img src=/Screenshots/Screenshot 1.jpeg">
+<img src=/Screenshots/Screenshot 2.jpeg">
